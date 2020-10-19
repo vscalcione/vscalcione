@@ -12,6 +12,6 @@
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html" alt="vscalcione" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html&langs_count=10" alt="vscalcione" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vscalcione&show_icons=true" alt="vscalcione" /></p>
 
