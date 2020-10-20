@@ -10,7 +10,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="50" height="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" alt="redhat" width="50" height="50"/> 
+  <img src="https://devicon.dev/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> 
