@@ -15,6 +15,7 @@
   <img src="https://img.icons8.com/officel/60/000000/php-logo.png"/>
   <img src="https://img.icons8.com/color/60/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/60/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/60/000000/angularjs.png" />
   <img src="https://img.icons8.com/officel/60/000000/react.png"/>  
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   <img src="https://img.icons8.com/color/48//000000/dart.png"/>
