@@ -5,20 +5,29 @@
 ![GitHub followers](https://img.shields.io/github/followers/vscalcione?logo=GitHub&style=for-the-badge)
 <br />
 
-### Languages and Tools:
-
+### Programming Languages:
 <p align="left">
   <img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/60/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/60/000000/python.png"/>
   <img src="https://img.icons8.com/plasticine/60/000000/bash.png"/>
   <img src="https://img.icons8.com/officel/60/000000/php-logo.png"/>
   <img src="https://img.icons8.com/color/60/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/60/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/60/000000/angularjs.png" />
-  <img src="https://img.icons8.com/officel/60/000000/react.png"/>  
-  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   <img src="https://img.icons8.com/color/48//000000/dart.png"/>
+</p>
+
+### Frameworks
+<p align="left">
+  <img src="https://img.icons8.com/color/60/000000/spring-logo.png"/>
+  <img src="https://img.icons8.com/officel/60/000000/react.png"/>
+  <img src="https://img.icons8.com/color/60/000000/angularjs.png" />
+  <img src="https://img.icons8.com/color/60/000000/vue-js.png"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  <img src="https://img.icons8.com/ios/100/000000/laravel.png"/>
+</p>
+
+### DB, OS and Tools
+<p align="left">
   <img src="https://img.icons8.com/color/60/000000/git.png"/>
   <img src="https://img.icons8.com/color/60/000000/linux.png"/>
   <img src="https://img.icons8.com/color/60/000000/ubuntu--v1.png"/>
