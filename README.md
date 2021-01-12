@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/color/60/000000/angularjs.png" />
   <img src="https://img.icons8.com/color/60/000000/vue-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-  <img src="https://img.icons8.com/ios/100/000000/laravel.png"/>
+  <img src="https://img.icons8.com/ios/60/000000/laravel.png"/>
 </p>
 
 ### DB, OS and Tools
