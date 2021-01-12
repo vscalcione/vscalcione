@@ -8,21 +8,34 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="50" height="50"/> 
-  <img src="https://devicon.dev/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="50" height="50"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48//000000/dart.png"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png"/>
+  <img src="https://img.icons8.com/color/96/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/96/000000/typescript.png"/>
+  <img src="https://img.icons8.com/officel/96/000000/react.png"/>
+  <img src="https://img.icons8.com/officel/48/000000/react.png"/>
+  
+  <img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/60/000000/python.png"/>
+  <img src="https://img.icons8.com/plasticine/60/000000/bash.png"/>
+  <img src="https://img.icons8.com/color/60/000000/postgreesql.png"/> 
+  <img src="https://img.icons8.com/color/60/000000/red-hat.png"/>
+  <img src="https://img.icons8.com/color/60/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/60/000000/mongodb.png"/>
+  
+
+  Firebase
+  Flask
+  Python
+  SQL
+  Linux
+  Git
+  Ubuntu
+  Debian
+  Docker
+  PostgreSQL
+  MySQL
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html&langs_count=10" alt="vscalcione" /></p>
