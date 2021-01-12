@@ -8,34 +8,26 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48//000000/dart.png"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-  <img src="https://img.icons8.com/color/96/000000/python.png"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/96/000000/typescript.png"/>
-  <img src="https://img.icons8.com/officel/96/000000/react.png"/>
-  <img src="https://img.icons8.com/officel/48/000000/react.png"/>
-  
   <img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/60/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/60/000000/python.png"/>
   <img src="https://img.icons8.com/plasticine/60/000000/bash.png"/>
-  <img src="https://img.icons8.com/color/60/000000/postgreesql.png"/> 
+  <img src="https://img.icons8.com/officel/60/000000/php-logo.png"/>
+  <img src="https://img.icons8.com/color/60/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/60/000000/typescript.png"/>
+  <img src="https://img.icons8.com/officel/60/000000/react.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  <img src="https://img.icons8.com/color/48//000000/dart.png"/>
+  <img src="https://img.icons8.com/color/60/000000/git.png"/>
+  <img src="https://img.icons8.com/color/60/000000/linux.png"/>
+  <img src="https://img.icons8.com/color/60/000000/ubuntu--v1.png"/>
+  <img src="https://img.icons8.com/color/60/000000/centos.png"/>
+  <img src="https://img.icons8.com/color/60/000000/debian.png"/>
   <img src="https://img.icons8.com/color/60/000000/red-hat.png"/>
   <img src="https://img.icons8.com/color/60/000000/docker.png"/>
+  <img src="https://img.icons8.com/officel/60/000000/sql.png"/>
+  <img src="https://img.icons8.com/color/60/000000/postgreesql.png"/> 
   <img src="https://img.icons8.com/color/60/000000/mongodb.png"/>
-  
-
-  Firebase
-  Flask
-  Python
-  SQL
-  Linux
-  Git
-  Ubuntu
-  Debian
-  Docker
-  PostgreSQL
-  MySQL
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html&langs_count=10" alt="vscalcione" /></p>
