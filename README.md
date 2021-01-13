@@ -17,6 +17,7 @@
   <img src="https://img.icons8.com/color/60/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/60/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48//000000/dart.png"/>
+  <img src="https://img.icons8.com/color/60/000000/golang.png"/>
 </p>
 
 ### Frameworks
