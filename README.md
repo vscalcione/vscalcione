@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Scalcione</h1>
-<h3 align="center">A Junior FullStack Developer and Tech Enthusiast😜</h3>
+<h3 align="center">A Senior FullStack Developer and Tech Enthusiast😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vscalcione?label=VincenzoScalci1&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/vscalcione?logo=GitHub&style=for-the-badge)
