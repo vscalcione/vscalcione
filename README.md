@@ -5,6 +5,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/vscalcione?logo=GitHub&style=for-the-badge)
 <br />
 
+<h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/vincenzo-scalcione-21b055159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francesco-pandolfi-dev/" height="30" width="40" /></a>
+</p>
+
 ### Programming Languages:
 <p align="left">
   <img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png"/>
