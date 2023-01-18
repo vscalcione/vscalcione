@@ -35,8 +35,25 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   <img src="https://img.icons8.com/ios/60/000000/laravel.png"/>
   <img src="https://img.icons8.com/color/60/null/django.png"/>
+</p>
+  
+### DB
+<p align="left">
+    <img src="https://img.icons8.com/officel/60/000000/sql.png"/>
+    <img src="https://img.icons8.com/color/60/000000/postgreesql.png"/>
+    <img src="https://img.icons8.com/color/60/000000/mongodb.png"/>
+    <img src="https://avatars.githubusercontent.com/u/201120?s=60&v=4"/>
+    <img src="https://img.icons8.com/plasticine/60/null/oracle-pl-sql--v3.png"/>
+</p>
+  
+### Containerized Applications Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/60/000000/docker.png"/>
+  <img src="https://avatars.githubusercontent.com/u/13629408?s=60&v=4"/>
+  <img src="https://avatars.githubusercontent.com/u/792337?s=60&v=4"/>
+</p>
 
-### DB, OS and Tools
+### Tools
 <p align="left">
   <img src="https://img.icons8.com/color/60/000000/git.png"/>
   <img src="https://img.icons8.com/color/60/000000/linux.png"/>
@@ -44,13 +61,6 @@
   <img src="https://img.icons8.com/color/60/000000/centos.png"/>
   <img src="https://img.icons8.com/color/60/000000/debian.png"/>
   <img src="https://img.icons8.com/color/60/000000/red-hat.png"/>
-  <img src="https://img.icons8.com/color/60/000000/docker.png"/>
-  <img src="https://avatars.githubusercontent.com/u/13629408?s=60&v=4"/>
-  <img src="https://avatars.githubusercontent.com/u/792337?s=60&v=4"/>  
-  <img src="https://img.icons8.com/officel/60/000000/sql.png"/>
-  <img src="https://img.icons8.com/color/60/000000/postgreesql.png"/> 
-  <img src="https://img.icons8.com/color/60/000000/mongodb.png"/>
-  <img src="https://avatars.githubusercontent.com/u/201120?s=60&v=4"/>
   <img src="https://img.icons8.com/color/60/null/hadoop-distributed-file-system.png"/>
   <img src="https://avatars.githubusercontent.com/u/6764390?s=60&v=4" />
   <img src="https://img.icons8.com/color/60/null/tomcat.png"/>
@@ -58,9 +68,14 @@
   <img src="https://avatars.githubusercontent.com/u/7658037?s=60&v=4" />
   <img src="https://avatars.githubusercontent.com/u/168166?s=60&v=4" />
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/null/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png"/>
-  <img src="https://img.icons8.com/plasticine/60/null/oracle-pl-sql--v3.png"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html&langs_count=10" alt="vscalcione" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vscalcione&show_icons=true" alt="vscalcione" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html&langs_count=10" alt="vscalcione" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vscalcione&show_icons=true" alt="vscalcione" />
+</p>
+
 
