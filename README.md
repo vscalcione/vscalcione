@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/color/60/000000/vue-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   <img src="https://img.icons8.com/ios/60/000000/laravel.png"/>
-</p>
+  <img src="https://img.icons8.com/color/60/null/django.png"/>
 
 ### DB, OS and Tools
 <p align="left">
