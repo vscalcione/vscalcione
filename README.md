@@ -45,10 +45,12 @@
   <img src="https://img.icons8.com/color/60/000000/debian.png"/>
   <img src="https://img.icons8.com/color/60/000000/red-hat.png"/>
   <img src="https://img.icons8.com/color/60/000000/docker.png"/>
+  <img src="https://avatars.githubusercontent.com/u/13629408?s=60&v=4"/>
+  <img src="https://avatars.githubusercontent.com/u/792337?s=60&v=4"/>  
   <img src="https://img.icons8.com/officel/60/000000/sql.png"/>
   <img src="https://img.icons8.com/color/60/000000/postgreesql.png"/> 
   <img src="https://img.icons8.com/color/60/000000/mongodb.png"/>
-  <img src="https://avatars.githubusercontent.com/u/201120?s=60&v=4"
+  <img src="https://avatars.githubusercontent.com/u/201120?s=60&v=4"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html&langs_count=10" alt="vscalcione" /></p>
