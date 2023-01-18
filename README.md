@@ -58,6 +58,7 @@
   <img src="https://avatars.githubusercontent.com/u/7658037?s=60&v=4" />
   <img src="https://avatars.githubusercontent.com/u/168166?s=60&v=4" />
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/null/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/plasticine/60/null/oracle-pl-sql--v3.png"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html&langs_count=10" alt="vscalcione" /></p>
