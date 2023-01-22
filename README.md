@@ -76,5 +76,8 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vscalcione&show_icons=true&theme=tokyonight" alt="vscalcione" />
 </p>
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=vscalcione&theme=gitdimmed" />
+</p>
 
 
