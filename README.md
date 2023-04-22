@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Scalcione</h1>
 <h3 align="center">A Senior FullStack Developer and Tech Enthusiast😜</h3>
 
+Professional with about 4 years of software development experience in consulting at most of customers who use in the Public Administration. In
+my range of skills I boast the use of multiple technologies for web development especially in Java, my favorite language for my development activities
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/vscalcione?label=VincenzoScalci1&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/vscalcione?logo=GitHub&style=for-the-badge)
 <br />
@@ -62,12 +65,16 @@
   <img src="https://img.icons8.com/color/60/000000/debian.png"/>
   <img src="https://img.icons8.com/color/60/000000/red-hat.png"/>
   <img src="https://img.icons8.com/color/60/null/hadoop-distributed-file-system.png"/>
+  <img src="https://img.icons8.com/color/60/null/amazon-web-services.png"/>
   <img src="https://avatars.githubusercontent.com/u/6764390?s=60&v=4" />
   <img src="https://img.icons8.com/color/60/null/tomcat.png"/>
+  <img src="https://avatars.githubusercontent.com/u/47359?s=60&v=4" />
   <img src="https://avatars.githubusercontent.com/u/1744809?s=60&v=4" />
   <img src="https://avatars.githubusercontent.com/u/7658037?s=60&v=4" />
   <img src="https://avatars.githubusercontent.com/u/168166?s=60&v=4" />
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/null/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-dev-coding-and-development-flat-flat-juicy-fish.png"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-agile-agile-flaticons-flat-flat-icons.png"/>
 </p>
 
 <p>
