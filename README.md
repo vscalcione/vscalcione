@@ -56,6 +56,17 @@ my range of skills I boast the use of multiple technologies for web development 
   <img src="https://avatars.githubusercontent.com/u/792337?s=60&v=4"/>
 </p>
 
+### Big Data Stack
+![apache-hadoop-logo](https://img.icons8.com/color/60/hadoop-distributed-file-system.png)
+![elastic-search-logo](https://avatars.githubusercontent.com/u/6764390?s=60&v=4)
+![kibana-logo](https://img.icons8.com/color/60/kibana.png)
+![cloudera-logo](https://avatars.githubusercontent.com/u/87383?s=60&v=4)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="apache-hive-logo" width="60" style="margin-left: 3px; margin-right: 3px">
+<img src="https://insightsoftware.com/wp-content/uploads/2022/12/Impala-ODBC-Driver.png" alt="apache-impala-logo" width="80">
+<img src="https://img.stackshare.io/service/1910/d64e494ec7611a65e9960689e1a04a23_400x400.png" alt="apache-hue-logo" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f3/20210416091438%21Apache_Spark_logo.svg" alt="apache-spark-logo" width="80">
+
+
 ### Tools
 <p align="left">
   <img src="https://img.icons8.com/color/60/000000/git.png"/>
@@ -64,9 +75,7 @@ my range of skills I boast the use of multiple technologies for web development 
   <img src="https://img.icons8.com/color/60/000000/centos.png"/>
   <img src="https://img.icons8.com/color/60/000000/debian.png"/>
   <img src="https://img.icons8.com/color/60/000000/red-hat.png"/>
-  <img src="https://img.icons8.com/color/60/null/hadoop-distributed-file-system.png"/>
   <img src="https://img.icons8.com/color/60/null/amazon-web-services.png"/>
-  <img src="https://avatars.githubusercontent.com/u/6764390?s=60&v=4" />
   <img src="https://img.icons8.com/color/60/null/tomcat.png"/>
   <img src="https://avatars.githubusercontent.com/u/47359?s=60&v=4" />
   <img src="https://avatars.githubusercontent.com/u/1744809?s=60&v=4" />
