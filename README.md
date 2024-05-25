@@ -74,7 +74,7 @@ my range of skills I boast the use of multiple technologies for web development 
   <img src="https://img.icons8.com/color/60/000000/ubuntu--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/centos.png"/>
   <img src="https://img.icons8.com/color/60/000000/debian.png"/>
-  <img src="https://img.icons8.com/color/60/000000/red-hat.png"/>
+  <img src="https://avatars.githubusercontent.com/u/33972111?s=60&v=4" />
   <img src="https://img.icons8.com/color/60/null/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/60/null/tomcat.png"/>
   <img src="https://avatars.githubusercontent.com/u/47359?s=60&v=4" />
