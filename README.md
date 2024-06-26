@@ -86,7 +86,7 @@ my range of skills I boast the use of multiple technologies for web development 
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-agile-agile-flaticons-flat-flat-icons.png"/>
 </p>
 
-<div align="center">
+<div>
 <a href="https://github.com/ali-bouali">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vscalcione&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vscalcione&theme=2077" height="180em" />
