@@ -86,14 +86,13 @@ my range of skills I boast the use of multiple technologies for web development 
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-agile-agile-flaticons-flat-flat-icons.png"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=vscalcione&layout=compact&hide=html&langs_count=10&theme=tokyonight" alt="vscalcione" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vscalcione&show_icons=true&theme=tokyonight" alt="vscalcione" />
-</p>
-<p>&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=vscalcione&theme=gitdimmed" />
-</p>
+<div align="center">
+<a href="https://github.com/ali-bouali">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vscalcione&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vscalcione&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vscalcione&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vscalcione&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vscalcione&theme=2077" height="180em" />
+</div>
 
 
