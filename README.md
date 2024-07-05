@@ -8,12 +8,13 @@ my range of skills I boast the use of multiple technologies for web development 
 ![GitHub followers](https://img.shields.io/github/followers/vscalcione?logo=GitHub&style=for-the-badge)
 <br />
 
-<h3>Connect with me:</h3>
+<h3> 🔗 Connect with me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/vincenzo-scalcione-21b055159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francesco-pandolfi-dev/" height="30" width="40" /></a>
+<a href="mailto:vincenzo99.scalcione@gmail.com" target="blank"><img align="center" width="50" height="50" src="https://img.icons8.com/fluency/60/mail--v1.png" alt="mail--v1"/>
 </p>
 
-### Programming Languages:
+### 👨‍💻 Programming Languages:
 <p align="left">
   <img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/60/000000/python.png"/>
@@ -67,7 +68,7 @@ my range of skills I boast the use of multiple technologies for web development 
 <img src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f3/20210416091438%21Apache_Spark_logo.svg" alt="apache-spark-logo" width="80">
 
 
-### Tools
+### 🛠️ Tools
 <p align="left">
   <img src="https://img.icons8.com/color/60/000000/git.png"/>
   <img src="https://img.icons8.com/color/60/000000/linux.png"/>
