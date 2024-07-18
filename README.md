@@ -85,6 +85,8 @@ my range of skills I boast the use of multiple technologies for web development 
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/null/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png"/>
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-dev-coding-and-development-flat-flat-juicy-fish.png"/>
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-agile-agile-flaticons-flat-flat-icons.png"/>
+  <img width="60" height="60" src="https://img.icons8.com/fluency/60/azure-1.png" />
+  <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png" />
 </p>
 
 <div>
