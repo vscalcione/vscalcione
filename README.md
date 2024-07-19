@@ -98,4 +98,8 @@ my range of skills I boast the use of multiple technologies for web development 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vscalcione&theme=2077" height="180em" />
 </div>
 
-
+# Badges
+  <p>
+  <img width="100" height="100" src="https://www.angularacademy.ca/images/Certification%20Badge%20-%20Level%201.png" />
+  <img width="100" height="100" src="https://www.codemotion.com/img/default-badge-certificate.svg" />
+</p>
