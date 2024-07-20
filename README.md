@@ -6,6 +6,7 @@ my range of skills I boast the use of multiple technologies for web development 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vscalcione?label=VincenzoScalci1&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/vscalcione?logo=GitHub&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=vscalcione&style=for-the-badge)
 <br />
 
 <h3> 🔗 Connect with me:</h3>
