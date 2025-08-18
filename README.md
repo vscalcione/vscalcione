@@ -91,13 +91,16 @@ my range of skills I boast the use of multiple technologies for web development 
 </p>
 
 <div>
-<a href="https://github.com/ali-bouali">
+<a href="https://github.com/vscalcione">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vscalcione&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vscalcione&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vscalcione&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vscalcione&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vscalcione&theme=2077" height="180em" />
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vscalcione&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # Badges
   <p>
