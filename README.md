@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Scalcione</h1>
-<h3 align="center">A Senior FullStack Developer and Tech Enthusiast😜</h3>
+<h3 align="center">Senior Java Software Engineer & Analyst | DevSecOps Expert😜</h3>
 
 Professional with about 6 years of software development experience in consulting at most of customers who use in the Public Administration. In
 my range of skills I boast the use of multiple technologies for web development especially in Java, my favorite language for my development activities
