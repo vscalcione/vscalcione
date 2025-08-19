@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Scalcione</h1>
 <h3 align="center">A Senior FullStack Developer and Tech Enthusiast😜</h3>
 
-Professional with about 4 years of software development experience in consulting at most of customers who use in the Public Administration. In
+Professional with about 6 years of software development experience in consulting at most of customers who use in the Public Administration. In
 my range of skills I boast the use of multiple technologies for web development especially in Java, my favorite language for my development activities
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vscalcione?label=VincenzoScalci1&logo=twitter&style=for-the-badge)
@@ -103,7 +103,7 @@ my range of skills I boast the use of multiple technologies for web development 
 
 
 # Badges
-  <p>
+<p>
   <img width="100" height="100" src="https://www.angularacademy.ca/images/Certification%20Badge%20-%20Level%201.png" />
   <img width="100" height="100" src="https://www.codemotion.com/img/default-badge-certificate.svg" />
 </p>
