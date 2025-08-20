@@ -106,4 +106,7 @@ my range of skills I boast the use of multiple technologies for web development 
 <p>
   <img width="100" height="100" src="https://www.angularacademy.ca/images/Certification%20Badge%20-%20Level%201.png" />
   <img width="100" height="100" src="https://www.codemotion.com/img/default-badge-certificate.svg" />
+  <img width="100" height="100" src="https://images.credly.com/images/030d09ff-a748-4dad-a76f-da3fc4d2c25b/blob" />
+  <img width="100" height="100" src="https://images.credly.com/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" />
+  <img width="100" height="100" src="https://images.credly.com/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" /> 
 </p>
